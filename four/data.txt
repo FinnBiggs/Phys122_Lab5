@@ -1,0 +1,165 @@
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.001000
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.001000
+Ray 2+ has z = -4.999930; y = 0.145000; thet = 0.000344
+Ray 2- has z = -4.999930; y = -0.145000; thet = -0.000344
+Ray 3+ has z = 4.999927; y = 0.148445; thet = 0.000022
+Ray 3- has z = 4.999927; y = -0.148445; thet = -0.000022
++y ray intercepts screen at (150.000, 0.151613); z-axis at (-6788.703023, 0.0)
+-y ray intercepts screen at (150.000, -0.151613); z-axis at (-6788.703023, 0.0)
+Rays intersect at (z,y) = (-6788.703023, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.001479
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.001479
+Ray 2+ has z = -4.999847; y = 0.214449; thet = 0.000509
+Ray 2- has z = -4.999847; y = -0.214449; thet = -0.000509
+Ray 3+ has z = 4.999839; y = 0.219543; thet = 0.000032
+Ray 3- has z = 4.999839; y = -0.219543; thet = -0.000032
++y ray intercepts screen at (150.000, 0.224229); z-axis at (-6789.276213, 0.0)
+-y ray intercepts screen at (150.000, -0.224229); z-axis at (-6789.276213, 0.0)
+Rays intersect at (z,y) = (-6789.276213, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.001958
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.001958
+Ray 2+ has z = -4.999731; y = 0.283899; thet = 0.000674
+Ray 2- has z = -4.999731; y = -0.283899; thet = -0.000674
+Ray 3+ has z = 4.999718; y = 0.290642; thet = 0.000043
+Ray 3- has z = 4.999718; y = -0.290642; thet = -0.000043
++y ray intercepts screen at (150.000, 0.296844); z-axis at (-6790.071059, 0.0)
+-y ray intercepts screen at (150.000, -0.296844); z-axis at (-6790.071059, 0.0)
+Rays intersect at (z,y) = (-6790.071059, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.002437
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.002437
+Ray 2+ has z = -4.999584; y = 0.353348; thet = 0.000839
+Ray 2- has z = -4.999584; y = -0.353348; thet = -0.000839
+Ray 3+ has z = 4.999564; y = 0.361741; thet = 0.000053
+Ray 3- has z = 4.999564; y = -0.361741; thet = -0.000053
++y ray intercepts screen at (150.000, 0.369459); z-axis at (-6791.087720, 0.0)
+-y ray intercepts screen at (150.000, -0.369459); z-axis at (-6791.087720, 0.0)
+Rays intersect at (z,y) = (-6791.087720, -0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.002916
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.002916
+Ray 2+ has z = -4.999404; y = 0.422799; thet = 0.001004
+Ray 2- has z = -4.999404; y = -0.422799; thet = -0.001004
+Ray 3+ has z = 4.999375; y = 0.432841; thet = 0.000064
+Ray 3- has z = 4.999375; y = -0.432841; thet = -0.000064
++y ray intercepts screen at (150.000, 0.442074); z-axis at (-6792.326401, 0.0)
+-y ray intercepts screen at (150.000, -0.442074); z-axis at (-6792.326401, 0.0)
+Rays intersect at (z,y) = (-6792.326401, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.003395
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.003395
+Ray 2+ has z = -4.999192; y = 0.492249; thet = 0.001169
+Ray 2- has z = -4.999192; y = -0.492249; thet = -0.001169
+Ray 3+ has z = 4.999153; y = 0.503940; thet = 0.000074
+Ray 3- has z = 4.999153; y = -0.503940; thet = -0.000074
++y ray intercepts screen at (150.000, 0.514688); z-axis at (-6793.787350, 0.0)
+-y ray intercepts screen at (150.000, -0.514688); z-axis at (-6793.787350, 0.0)
+Rays intersect at (z,y) = (-6793.787350, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.003874
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.003874
+Ray 2+ has z = -4.998948; y = 0.561700; thet = 0.001334
+Ray 2- has z = -4.998948; y = -0.561700; thet = -0.001334
+Ray 3+ has z = 4.998898; y = 0.575040; thet = 0.000085
+Ray 3- has z = 4.998898; y = -0.575040; thet = -0.000085
++y ray intercepts screen at (150.000, 0.587301); z-axis at (-6795.470863, 0.0)
+-y ray intercepts screen at (150.000, -0.587301); z-axis at (-6795.470863, 0.0)
+Rays intersect at (z,y) = (-6795.470863, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.004353
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.004353
+Ray 2+ has z = -4.998672; y = 0.631152; thet = 0.001499
+Ray 2- has z = -4.998672; y = -0.631152; thet = -0.001499
+Ray 3+ has z = 4.998608; y = 0.646140; thet = 0.000095
+Ray 3- has z = 4.998608; y = -0.646140; thet = -0.000095
++y ray intercepts screen at (150.000, 0.659913); z-axis at (-6797.377276, 0.0)
+-y ray intercepts screen at (150.000, -0.659913); z-axis at (-6797.377276, 0.0)
+Rays intersect at (z,y) = (-6797.377276, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.004832
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.004832
+Ray 2+ has z = -4.998364; y = 0.700605; thet = 0.001664
+Ray 2- has z = -4.998364; y = -0.700605; thet = -0.001664
+Ray 3+ has z = 4.998285; y = 0.717240; thet = 0.000105
+Ray 3- has z = 4.998285; y = -0.717240; thet = -0.000105
++y ray intercepts screen at (150.000, 0.732525); z-axis at (-6799.506976, 0.0)
+-y ray intercepts screen at (150.000, -0.732525); z-axis at (-6799.506976, 0.0)
+Rays intersect at (z,y) = (-6799.506976, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.005311
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.005311
+Ray 2+ has z = -4.998023; y = 0.770058; thet = 0.001829
+Ray 2- has z = -4.998023; y = -0.770058; thet = -0.001829
+Ray 3+ has z = 4.997928; y = 0.788341; thet = 0.000116
+Ray 3- has z = 4.997928; y = -0.788341; thet = -0.000116
++y ray intercepts screen at (150.000, 0.805135); z-axis at (-6801.860392, 0.0)
+-y ray intercepts screen at (150.000, -0.805135); z-axis at (-6801.860392, 0.0)
+Rays intersect at (z,y) = (-6801.860392, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.005790
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.005790
+Ray 2+ has z = -4.997651; y = 0.839512; thet = 0.001994
+Ray 2- has z = -4.997651; y = -0.839512; thet = -0.001994
+Ray 3+ has z = 4.997538; y = 0.859443; thet = 0.000126
+Ray 3- has z = 4.997538; y = -0.859443; thet = -0.000126
++y ray intercepts screen at (150.000, 0.877744); z-axis at (-6804.437997, 0.0)
+-y ray intercepts screen at (150.000, -0.877744); z-axis at (-6804.437997, 0.0)
+Rays intersect at (z,y) = (-6804.437997, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.006269
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.006269
+Ray 2+ has z = -4.997246; y = 0.908967; thet = 0.002159
+Ray 2- has z = -4.997246; y = -0.908967; thet = -0.002159
+Ray 3+ has z = 4.997114; y = 0.930545; thet = 0.000137
+Ray 3- has z = 4.997114; y = -0.930545; thet = -0.000137
++y ray intercepts screen at (150.000, 0.950352); z-axis at (-6807.240315, 0.0)
+-y ray intercepts screen at (150.000, -0.950352); z-axis at (-6807.240315, 0.0)
+Rays intersect at (z,y) = (-6807.240315, -0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.006747
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.006747
+Ray 2+ has z = -4.996809; y = 0.978423; thet = 0.002324
+Ray 2- has z = -4.996809; y = -0.978423; thet = -0.002324
+Ray 3+ has z = 4.996656; y = 1.001647; thet = 0.000147
+Ray 3- has z = 4.996656; y = -1.001647; thet = -0.000147
++y ray intercepts screen at (150.000, 1.022958); z-axis at (-6810.267911, 0.0)
+-y ray intercepts screen at (150.000, -1.022958); z-axis at (-6810.267911, 0.0)
+Rays intersect at (z,y) = (-6810.267911, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.007226
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.007226
+Ray 2+ has z = -4.996340; y = 1.047880; thet = 0.002489
+Ray 2- has z = -4.996340; y = -1.047880; thet = -0.002489
+Ray 3+ has z = 4.996164; y = 1.072750; thet = 0.000157
+Ray 3- has z = 4.996164; y = -1.072750; thet = -0.000157
++y ray intercepts screen at (150.000, 1.095563); z-axis at (-6813.521399, 0.0)
+-y ray intercepts screen at (150.000, -1.095563); z-axis at (-6813.521399, 0.0)
+Rays intersect at (z,y) = (-6813.521399, 0.000000)
+Surface 1 has n = 1.500000, z_vert = -5.000000, radius = 150, K = 0.000000
+Surface 2 has n = 1.000000, z_vert = 5.000000, radius = -150, K = 0.000000
+Ray 1+ has z = -150.000000; y = 0.000000; thet = 0.007705
+Ray 1- has z = -150.000000; y = 0.000000; thet = -0.007705
+Ray 2+ has z = -4.995838; y = 1.117339; thet = 0.002654
+Ray 2- has z = -4.995838; y = -1.117339; thet = -0.002654
+Ray 3+ has z = 4.995639; y = 1.143853; thet = 0.000168
+Ray 3- has z = 4.995639; y = -1.143853; thet = -0.000168
++y ray intercepts screen at (150.000, 1.168167); z-axis at (-6817.001440, 0.0)
+-y ray intercepts screen at (150.000, -1.168167); z-axis at (-6817.001440, 0.0)
+Rays intersect at (z,y) = (-6817.001440, -0.000000)
